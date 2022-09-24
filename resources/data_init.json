@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "firstname": "Anahit",
+      "lastname": "Hovakimyan",
+      "username": "ahovakimyan"
+    },
+    {
+      "firstname": "Lusine",
+      "lastname": "Martirosyan",
+      "username": "lmartirosyan"
+    }
+  ],
+  "librarians": [
+    {
+      "firstname": "Anjela",
+      "lastname": "Abrahamyan",
+      "username": "aabrahamyan"
+    },
+    {
+      "firstname": "Qnarik",
+      "lastname": "Vardanyan",
+      "username": "qvardanyan"
+    }
+  ],
+  "authors": [
+    {
+      "firstname": "Harry",
+      "lastname": "Percival"
+    },
+    {
+      "firstname": "Bob",
+      "lastname": "Gregory"
+    }
+  ]
+}

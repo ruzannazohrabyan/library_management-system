@@ -1,4 +1,4 @@
-from model import Student, Librarian, Author
+from entity import Student, Librarian, Author
 
 import json
 
@@ -31,4 +31,8 @@ class Initialization:
         for author in self.__data['authors']:
             authors.append(Author(author['firstname'], author['lastname']))
         return authors
+
+    def get_addresses(self):
+        addresses = []
+
 

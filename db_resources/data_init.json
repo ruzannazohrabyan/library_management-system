@@ -32,5 +32,15 @@
       "firstname": "Bob",
       "lastname": "Gregory"
     }
+  ],
+  "addresses": [
+    {
+      "country": "USA",
+      "stat": "California",
+      "city": "Sebastopol",
+      "street": "Gravenstein Highway North Sebastopol",
+      "building": "1005",
+      "zip_code": "CA 95472"
+    }
   ]
 }

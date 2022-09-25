@@ -1,4 +1,4 @@
-from model import Person
+from entity import Person
 
 
 class Author(Person):
